@@ -1,3 +1,3 @@
-# Surgical Mask Detection
+# surgical-mask-detection
 
-## A simple surgical mask detection system is created 
+## this ia a naive surgical-mask-detection system developed for...
